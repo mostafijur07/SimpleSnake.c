@@ -1,7 +1,7 @@
-#include<stdio.h>         // function printf(),scanf();
-#include<windows.h>       //windows.h contains declarations for all of the functions in the Windows API, all the common macros used by Windows programmers
-#include<stdlib.h>        //contains header information for Memory Allocation/Freeing .function malloc(),free(),exit(),atoi(),system(),atol();
-#include<conio.h>         //console input output.function clrscr(),getch(),getche(),textcolor(),textbackground();
+#include<stdio.h>        
+#include<windows.h>       
+#include<stdlib.h>        
+#include<conio.h>        
 #include<time.h>
 #include<unistd.h>
 
