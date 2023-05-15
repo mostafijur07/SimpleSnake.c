@@ -1,2 +1,1 @@
-# SimpleSnake.c
-My first simple snake program
+simple snake game in c
